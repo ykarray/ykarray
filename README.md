@@ -1,16 +1,26 @@
-### Hi there 👋
+# Hi there! 👋 I'm Yasmine Karray 🌼
 
-<!--
-**ykarray/ykarray** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+- 🎓 Proudly studying Data and Decision System Engineering
+- 📜 Hold a Diploma in Big Data and Data Analytics
+- 🌐 Woman Techmaker Ambassador
+- 📍 Based in the vibrant city of Tunisia, Sfax
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Focus
+
+- 🔭 I’m currently working on Graph Neural Networks (GNN) and eXplainable AI (XAI)
+- 🌱 I’m currently learning about GNN, XAI, and Transformers
+- 👯 I’m looking to collaborate on deep learning projects
+
+## Writing
+
+- 📝 I sometimes write on  [Medium](https://medium.com/@ykarray29). Feel free to check out my articles!
+
+## LinkedIn
+
+- 💼 Let's connect on [LinkedIn](https://shorturl.at/doQUW)
+
+## Contact Me
+
+- 📫 Reach me at  [ykarray29@gmail.com](mailto:ykarray29@gmail.com)

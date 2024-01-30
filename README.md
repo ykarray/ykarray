@@ -5,8 +5,7 @@
 - 🎓 Proudly studying Data and Decision Systems Engineering
 - 📜 Hold a Diploma in Big Data and Data Analytics
 - 🌐 Woman Techmaker Ambassador
-- 📍 Based in the vibrant city of Tunisia, Sfax
-
+- 📍 Based in Tunisia, Sfax
 ## Current Focus
 
 - 🔭 I’m currently working on Graph Neural Networks (GNN) and eXplainable AI (XAI)

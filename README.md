@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on Graph Neural Networks (GNN) and eXplainable AI (XAI)
 - 🌱 I’m currently learning about GNN, XAI, and Transformers
-- 👯 I’m looking to collaborate on deep learning projects
+- 👯 Open to collaboration on any exciting deep learning projects
 
 ## Writing
 

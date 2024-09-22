@@ -2,7 +2,7 @@
 
 ## About Me
 
-- 🎓 Proudly studying Data and Decisional Systems Engineering
+- 🎓 Data Engineering and Decisional Systems student
 - 📜 Hold a Diploma in Big Data and Data Analytics
 - 🌐 Woman Techmaker Ambassador
 - 📍 Based in Tunisia, Sfax
